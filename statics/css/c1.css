@@ -1,0 +1,10 @@
+body{
+    background-size: cover;
+    background-repeat: repeat-x;
+
+}
+h1{
+    color: antiquewhite;
+    font-size: larger;
+    padding: 30px,30px,30px,30px;
+}
